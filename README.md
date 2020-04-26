@@ -8,4 +8,7 @@ Having fun applying sampling and monte carlo methods in physics from coursera [o
 - Ising model
 - Advanced Monte Carlo
 
+It is a really great course and I recommend it to everybody!
+
+Fun images from course:
 ![liquid](disk_configuration_N256_eta0.42.png)
