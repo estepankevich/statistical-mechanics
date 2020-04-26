@@ -10,5 +10,5 @@ Having fun applying sampling and monte carlo methods in physics from coursera [o
 
 It is a really great course and I recommend it to everybody!
 
-Fun images from course:
+Fun images from course:\n
 ![liquid](disk_configuration_N256_eta0.42.png)
