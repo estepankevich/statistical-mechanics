@@ -1,7 +1,6 @@
 def f1(p, q, r):
     return (q or r if p else True) or (q if p else True)
 
-print('p    q    r    F')
 for p in [True, False]:
     for q in [True, False]:
         for r in [True, False]:
